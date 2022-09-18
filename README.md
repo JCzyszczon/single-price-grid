@@ -2,7 +2,7 @@
 
 # Frontend Mentor - Single price grid component
 
-This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Single price grid component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 [Solution][solution-url] . [Live Page][live-page]
 
@@ -76,5 +76,5 @@ Users should be able to:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-[live-page]: https://jczyszczon.github.io/product-card-component/
+[live-page]: https://single-price-grid-ten-ashy.vercel.app
 [solution-url]: https://www.frontendmentor.io/solutions/responsive-product-card-component-with-html-and-css-vTuMY3JvA2
